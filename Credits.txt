@@ -1,0 +1,42 @@
+Stylesheet & Script
+
+Animate CSS =
+site: https://daneden.github.io/animate.css/
+
+Bootstrap 4 =
+site: https://getbootstrap.com/
+
+Jquery =
+site: https://jquery.com/
+
+Owl Carousel 2 = 
+site: https://owlcarousel2.github.io/OwlCarousel2/
+
+Isotope = 
+site: https://isotope.metafizzy.co
+
+Jquery animateNumber = 
+site: https://github.com/aishek/jquery-animateNumber
+
+Fancybox =
+site: http://fancyapps.com/fancybox/
+
+WOW =
+site: https://wowjs.uk/
+
+Waypoints =
+site: http://imakewebthings.com/waypoints/
+
+Font icons
+
+Themify icons =
+site: https://themify.me/themify-icons
+
+Map =
+site: https://www.youtube.com/watch?v=4U_AAGHzTok
+
+Option tag  =
+site: https://stackoverflow.com/questions/7562095/redirect-on-select-option-in-select-box
+
+HTML EDUC = 
+site = https://www.educative.io/
